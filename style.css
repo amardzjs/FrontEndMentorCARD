@@ -1,0 +1,100 @@
+
+
+body
+{
+    background-color: #141414;
+  
+}
+
+div
+{
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.container
+{
+    width:350px;
+    margin:auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height:90vh;
+    background-color: #1f1f1f;
+    border-radius:10px;
+    margin-top:5vh;
+
+}
+
+
+.picture
+{
+    
+    margin:auto;
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    overflow: hidden;
+    background-color: #343433;
+}
+
+
+.picture img
+{
+    width: 100%; 
+    height: auto;
+}
+
+#name
+{
+    color:white;
+}
+
+
+#location
+{
+    color:#c0e74d;
+}
+
+
+#desc
+{
+    color:white;
+}
+
+
+
+
+.button
+{
+    margin:auto;
+    padding:10px;
+    margin-bottom:10px;
+    width:280px;
+    background-color:#333333;
+    border-radius:10px;
+    color:white;
+    font-weight:500;
+
+
+}
+
+.button:hover
+{
+    background-color:#c0e74d;
+    color:#4b4b4c;
+    cursor:pointer;
+
+
+}
+
+button
+{
+    background-color:none;
+}
+
+
